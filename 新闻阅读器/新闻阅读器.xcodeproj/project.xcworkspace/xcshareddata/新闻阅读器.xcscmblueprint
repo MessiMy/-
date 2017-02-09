@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55190E2BB9E7CFFC477CAFC7C0D3BF3D7D1F2B16",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55190E2BB9E7CFFC477CAFC7C0D3BF3D7D1F2B16" : 9223372036854775807,
+    "AB478119A652ACEACAC8C8E3942DE773ADE64541" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "975F7787-125C-44F6-83BE-78656B2C4D97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55190E2BB9E7CFFC477CAFC7C0D3BF3D7D1F2B16" : "%E6%96%B0%E9%97%BB%E9%98%85%E8%AF%BB%E5%99%A8\/",
+    "AB478119A652ACEACAC8C8E3942DE773ADE64541" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "新闻阅读器",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "新闻阅读器\/新闻阅读器.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MessiMy\/-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55190E2BB9E7CFFC477CAFC7C0D3BF3D7D1F2B16"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MessiMy\/Messi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB478119A652ACEACAC8C8E3942DE773ADE64541"
+    }
+  ]
+}
