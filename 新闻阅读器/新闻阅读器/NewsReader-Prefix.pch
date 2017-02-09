@@ -1,0 +1,14 @@
+//
+//  NewsReader-Prefix.pch
+//  新闻阅读器
+//
+//  Created by 梅毅 on 2017/2/9.
+//  Copyright © 2017年 my. All rights reserved.
+//
+
+#ifndef NewsReader_Prefix_pch
+#define NewsReader_Prefix_pch
+
+#import "Defines.h"
+
+#endif /* NewsReader_Prefix_pch */
